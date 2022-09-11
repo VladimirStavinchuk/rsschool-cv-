@@ -1,7 +1,7 @@
 # Vladimir Stavinchuk 
 Date of birth: October 1, 1978
 
-![Vladimir Stavinchuk](./assets/fotoStavinchukVI.jpg "Vladimir Stavinchuk")
+![Vladimir Stavinchuk](./assets/img/fotoStavinchukVI.jpg "Vladimir Stavinchuk")
 
 ## Contacts
  - **Location:** Krasnodar, Russia
