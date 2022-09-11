@@ -1,0 +1,1 @@
+https://vladimirstavinchuk.github.io/rsschool-cv/
